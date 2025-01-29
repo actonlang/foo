@@ -1,3 +1,7 @@
 def foo():
     """A very foo function"""
     return "foo"
+
+def foo2():
+    """More foo"""
+    return "fooo"
